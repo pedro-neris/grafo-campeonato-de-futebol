@@ -58,23 +58,6 @@ O grafo foi modelado da seguinte forma:
 
 ---
 
-## FUNCIONAMENTO DO ALGORITMO
-
-O algoritmo utilizado possui a seguinte lógica:
-
--> Passe por todos os vértices do grafo recursivamente, até chegar ao último vértice
-
--> Para cada vértice v visitado:
-
-    -> Para cada cor c na lista de cores:
-
-        -> Caso seja possível designar c para v (isto é, que nenhum vértice adjacente a v tenha a cor c):
-
-            -> Designe c para v e chame a função recursivamente para o próximo vértice
-
--> As chamadas recursivas continuam até chegar no último vértice (isto é, quando o índice do vértice for igual ao tamanho de vértices)
-
----
 
 ![Grafo modelado e com coloração](./coloração.png)
 
