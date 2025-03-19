@@ -12,7 +12,7 @@
 
 Este projeto tem como objetivo gerar um calendário de rodadas para um campeonato de futebol com 7 times, respeitando restrições específicas de jogos. Para isso, foi desenvolvido um algoritmo de coloração de grafos, baseado no algoritmo descrito em [Graph Coloring Applications - GeeksforGeeks](https://www.geeksforgeeks.org/graph-coloring-applications/).
 
----
+--- 
 
 ## LISTA DE TIMES
 
@@ -57,10 +57,6 @@ O grafo foi modelado da seguinte forma:
 ![Grafo modelado e sem coloração](./sem%20coloração.png)
 
 ---
-
-
-![Grafo modelado e com coloração](./coloração.png)
-
 ## CALENDÁRIO FINAL DE JOGOS
 
 | Rodada | Cor           | Jogos                     |
@@ -79,6 +75,9 @@ O grafo foi modelado da seguinte forma:
 | R12    | Oliva         | FFCxTFC, OFCxDFC, CFCxLFC |
 | R13    | Azul-marinho  | FFCxAFC, OFCxLFC, CFCxDFC |
 | R14    | Azul-petróleo | FFCxLFC, OFCxAFC, CFCxTFC |
+
+Segue o grafo ao final da execução do código, com a coloração encontrada:
+![Grafo modelado e com coloração](./coloração.png)
 
 ---
 
