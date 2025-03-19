@@ -3,8 +3,8 @@
   - GitHub: [github.com/pedro-neris](https://github.com/pedro-neris)  
   - LinkedIn: [www.linkedin.com/in/pedro-neris](https://www.linkedin.com/in/pedro-neris)  
 - **Caue Trindade**
-  - GitHub: [github.com/cauetrd] (https://github.com/cauetrd)
-  - LinkedIn: [www.linkedin.com/in/cau%C3%AA-trindade-4bab91263/] (https://www.linkedin.com/in/cau%C3%AA-trindade-4bab91263/)
+  - GitHub: [github.com/cauetrd](https://github.com/cauetrd)
+  - LinkedIn: [www.linkedin.com/in/cau%C3%AA-trindade-4bab91263/](https://www.linkedin.com/in/cau%C3%AA-trindade-4bab91263/)
 
 ---
 
